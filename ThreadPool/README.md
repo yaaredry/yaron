@@ -1,6 +1,6 @@
 # yaron
 
-This program is my implementation for thread-pool design pattern.
+This program is my easy-and-simple implementation for thread-pool design pattern.
 
 MyThreadPool.java file contains the main function,
 
