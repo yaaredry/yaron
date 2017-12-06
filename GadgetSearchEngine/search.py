@@ -43,7 +43,7 @@ class GadgetSearch(object):
             self.get_format_count('XOR {0}, {0}; ADD {0}, {1}')
             => 2
         """
-        # Hint: Use the string.Formatter().parse method:
+        #   todo : use the string.Formatter().parse:
         #   import string
         
         curMax=0
