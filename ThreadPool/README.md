@@ -1,4 +1,4 @@
-# yaron
+# 
 
 This program is my easy-and-simple implementation for thread-pool design pattern.
 
